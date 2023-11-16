@@ -18,7 +18,7 @@ As I study programming, I enjoy learning all the overlapping science and mathema
 - Studying the mathematical parallels between physics and machine learning.
 
 ## 🔭 My Projects
-Here are some of the projects I've been working on:
+### Here are some of the projects I've been working on:
 **LHL-Statistical-Modelling-with-Python-Project:** 
 Connect to CityBike, Yelp, and Foursquare APIs using Python in order to extract data from multiple locations,
 and then demonstrate a relationship between the POIs of that location through a multivariate OLS regression model.
