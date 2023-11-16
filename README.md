@@ -46,7 +46,7 @@ to govern the probability of acceptance, (the weights between nodes), for a Metr
   I'm always happy to collaborate, learn, and improve.  I would like to work more on data analytics and data science projects.
 
 ## 📫 How to Reach Me
-  - [LinkedIn](https://www.linkedin.com/in/michael-frood/)
+  - [LinkedIn](https://www.linkedin.com/in/michael-frood-991415254/)
 
 <!---
 Frood-for-Thought/Frood-for-Thought is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
