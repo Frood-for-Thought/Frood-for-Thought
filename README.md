@@ -11,7 +11,8 @@ As I study programming, I enjoy learning all the overlapping science and mathema
   - **Database:** PostgreSQL, SQLite, MySQL
   - **Data Analysis:** Tableau, Data Visualization (Matplotlib, Seaborn, Plotly, MATLAB), Data Cleaning and Quality Analysis, Regressive Analysis, Excel, Microsoft Power Apps
   - **Math:** Statistical Mechanics, Linear Algebra, Calculus and Differential Equations
-## 🌱 I’m currently learning 
+
+## 🌱 I’m Currently Learning 
 - Currently I’m learning data analytics and data science, as well as creating projects in data analytics, data science, and physics.
 - I'm always looking to improve my programming skills.
 - Studying the mathematical parallels between physics and machine learning.
@@ -41,8 +42,11 @@ to simulate how an antibiotic gradient affects the rate of mutation of a bacteri
 to govern the probability of acceptance, (the weights between nodes), for a Metropolis–Hastings algorithm.
 - [GitHub Repo](https://github.com/Frood-for-Thought/Ising_MCMC_Bacterial_Evolution_to_Antibiotics)
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 💞️ I’m Looking to Collaborate
+  I'm always happy to collaborate, learn, and improve.  I would like to work more on data analytics and data science projects.
+
+## 📫 How to Reach Me
+  - [LinkedIn](www.linkedin.com/in/michael-frood)
 
 <!---
 Frood-for-Thought/Frood-for-Thought is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
