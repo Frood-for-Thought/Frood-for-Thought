@@ -6,8 +6,7 @@ As I study programming, I enjoy learning all the overlapping science and mathema
 
 ## 🛠️ Technologies & Tools
   - **Programming Languages:** Python, SQL, MATLAB
-  - **Libraries & Tools:** Numpy, Pandas, Scipy, BeautifulSoup, Pypdf, Sqlite3, Pycharm, Matplotlib, Seaborn, Plotly, Scikit-learn, Anaconda,
-    VS Code, Jupyter Lab, Linux, Postman, Git, GitHub
+  - **Libraries & Tools:** Numpy, Pandas, Scipy, BeautifulSoup, Pypdf, Sqlite3, Matplotlib, Seaborn, Plotly, Scikit-learn, Pycharm, pgAdmin, DBeaver, Anaconda, VS Code, Jupyter Lab, Linux, Postman, Git, GitHub
   - **Database:** PostgreSQL, SQLite, MySQL
   - **Data Analysis:** Tableau, Data Visualization (Matplotlib, Seaborn, Plotly, MATLAB), Data Cleaning and Quality Analysis, Regressive Analysis, Excel, Microsoft Power Apps
   - **Math:** Statistical Mechanics, Linear Algebra, Calculus and Differential Equations
