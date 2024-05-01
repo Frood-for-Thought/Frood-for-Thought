@@ -11,7 +11,7 @@ As I study programming, I enjoy learning all the overlapping science and mathema
   - **Libraries & Tools:**
     - **Libraries:**
 
-      Numpy, Pandas, Scikit-Learn, Scipy, Pypdf
+      Numpy, Pandas, Scikit-Learn, PyTorch, Scipy, Pypdf
     - **API & Web Tools:**
 
       Flask, REST APIs, Postman, BeautifulSoup, Marshmallow
@@ -27,7 +27,9 @@ As I study programming, I enjoy learning all the overlapping science and mathema
   - **Visualization:**
 
     Tableau, Microsoft Power BI, Matplotlib, Seaborn, Plotly, MATLAB.
-  - **Data Analysis:** Hypothesis Testing, Data Wrangling, Data Cleaning and Quality Analysis, EDA, statistical modelling (classification, regression, clustering), predictive modelling, ERD and normalization of relational databases, Markov Chain Monte Carlo and Gillespie Algorithms.
+    
+  - **Data Analysis:** Hypothesis Testing, Exploratory Data Analysis (EDA), Data Cleaning and Quality Analysis, statistical modelling (classification, regression, clustering), predictive modelling, Entity Relational Database (ERD) and normalization, Markov Chain Monte Carlo and Gillespie Algorithms, ML Algorithms, Langchain Pandas Agents.
+    
   - **Math:** Statistical Mechanics, Linear Algebra, Calculus and Differential Equations
 
 ## 🌱 I’m Currently Learning 
