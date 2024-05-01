@@ -9,8 +9,6 @@ As I study programming, I enjoy learning all the overlapping science and mathema
     
     Python, SQL, MATLAB
   - **Libraries & Tools:**
-    
-  - **Database:**
     - **Libraries:**
 
       Numpy, Pandas, Scikit-Learn, Scipy, Pypdf
@@ -18,7 +16,13 @@ As I study programming, I enjoy learning all the overlapping science and mathema
 
       Flask, REST APIs, Postman, BeautifulSoup, Marshmallow
 
+    - **Database & Data Management Tools:**
 
+      PostgreSQL, SQLite3, psycopg2, pgAdmin, DBeaver, Microsoft Power Apps, knowledge in building and optimizing Extract, Transform, Load (ETL) pipelines.
+
+    - **AI Tools:**
+
+      Large Language Models (LLM) and Transformer Models - OpenAI GPT3.5, GPT4, LLaMA2, BERT. Retrieval Augmented Generation (RAG) - Pinecone, Langchain.
       
   - **Visualization:**
 
