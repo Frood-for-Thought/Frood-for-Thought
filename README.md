@@ -6,9 +6,11 @@ As I study programming, I enjoy learning all the overlapping science and mathema
 
 ## 🛠️ Technologies & Tools
   - **Programming Languages**
+  - 
     Python, SQL, MATLAB
   - **Libraries & Tools:** 
-  - **Database:** 
+  - **Database:**
+    - **Libraries:**
   - **Visualization:** Tableau, Microsoft Power BI, Matplotlib, Seaborn, Plotly, MATLAB.
   - **Data Analysis:** Hypothesis Testing, Data Wrangling, Data Cleaning and Quality Analysis, EDA, statistical modelling (classification, regression, clustering), predictive modelling, ERD and normalization of relational databases, Markov Chain Monte Carlo and Gillespie Algorithms.
   - **Math:** Statistical Mechanics, Linear Algebra, Calculus and Differential Equations
