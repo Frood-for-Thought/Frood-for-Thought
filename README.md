@@ -5,9 +5,10 @@ I’ve studied biophysics whereby I programmed Monte Carlo simulations to descri
 As I study programming, I enjoy learning all the overlapping science and mathematics between physics and data science and analytics.
 
 ## 🛠️ Technologies & Tools
-  - **Programming Languages:** Python, SQL, MATLAB
-  - **Libraries & Tools:** Numpy, Pandas, Scipy, BeautifulSoup, Pypdf, Psycopg2, Sqlite3, Matplotlib, Seaborn, Plotly, Scikit-learn, Pycharm, pgAdmin, DBeaver, Anaconda, VS Code, Jupyter Lab, Linux, Postman, Excel, Microsoft Power Apps, Git, GitHub
-  - **Database:** PostgreSQL, SQLite, MySQL
+  - **Programming Languages**
+    Python, SQL, MATLAB
+  - **Libraries & Tools:** 
+  - **Database:** 
   - **Visualization:** Tableau, Microsoft Power BI, Matplotlib, Seaborn, Plotly, MATLAB.
   - **Data Analysis:** Hypothesis Testing, Data Wrangling, Data Cleaning and Quality Analysis, EDA, statistical modelling (classification, regression, clustering), predictive modelling, ERD and normalization of relational databases, Markov Chain Monte Carlo and Gillespie Algorithms.
   - **Math:** Statistical Mechanics, Linear Algebra, Calculus and Differential Equations
